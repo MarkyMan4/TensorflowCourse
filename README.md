@@ -1,0 +1,1 @@
+Following Tensorflow tutorial to prep for Tensorflow certification.
